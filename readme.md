@@ -1,3 +1,5 @@
+AutoRun with reNameComponent.bat
+
 HKEY_LOCAL_MACHINE\HARDWARE\DESCRIPTION\System\CentralProcessor\0
     ProcessorNameString
         Named
